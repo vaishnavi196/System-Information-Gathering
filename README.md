@@ -20,8 +20,8 @@ cd System-Information-Gathering
 
 4.Give permission(Make executable) using this command:
 
-chmod +x pysysinfo_func.py
+chmod +x sysinfo_func.py
 
 5.Now run this by using this command:
 
-./pysysinfo_func.py
+./sysinfo_func.py
